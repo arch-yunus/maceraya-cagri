@@ -71,6 +71,21 @@ Kahramanın kazandığı güç veya bilgiyle sıradan dünyaya dönme ve onu iyi
 
 ---
 
+## 🕋 Monomit ve Tasavvuf: Ruhun Tekâmül Yolculuğu
+
+Joseph Campbell'ın Monomit teorisi, İslam düşüncesi ve özellikle Tasavvuf geleneği ile çarpıcı paralellikler gösterir. "Kahramanın Yolculuğu", tasavvufi bir perspektifle bakıldığında "İnsan-ı Kâmil" olma yolundaki bir **Seyr-i Süluk** (manevi yolculuk) olarak okunabilir.
+
+| Monomit Aşaması | Tasavvufi Karşılığı | Açıklama |
+| :--- | :--- | :--- |
+| **Ayrılış (Departure)** | *Hicret / Zühd* | Masiva'dan (Allah dışındaki her şeyden) yüz çevirip hakikate yönelme. |
+| **Eşiğin Aşılması** | *Tövbe / İrade* | Nefsin isteklerini terk edip manevi yola ilk adımın atılması. |
+| **Sınavlar Yolu** | *Mücahede / Riyazet* | Nefis ile yapılan büyük cihad; sabır ve tevekkül imtihanları. |
+| **Balinanın Karnı** | *Halvet / Uzlet* | Dış dünyadan kopup kendi iç derinliğine (kalbe) iniş. |
+| **Baba ile Uzlaşma** | *Teslimiyet / Rıza* | Nihai otoriteye (Cenab-ı Hak) tam teslimiyet ve vuslat. |
+| **İki Dünyanın Ustası** | *Bekâ-billah* | Hem zahirde (halk içinde) hem batında (Hak ile) barışık olma hali. |
+
+---
+
 ## 🎭 Temel Arketipler
 
 Yolculuk sadece mekanlardan ve olaylardan ibaret değildir; aynı zamanda psikolojik derinliği olan figürlerle doludur. `📁 Arketipler` dizininde Carl Jung'un psikolojisinden beslenen şu temel karakter yapıları incelenmektedir:
@@ -170,6 +185,8 @@ C: Hayır. İskelet aynı olsa da, o iskeletin üzerine giydirdiğiniz et (karak
 - [x] Temel Monomit yapısının kurulması (17 Aşamalı Klasörleme).
 - [x] Temel Arketiplerin (Kahraman, Mentor, vb.) dökümantasyonu.
 - [x] Örnek vaka çalışmaları (Matrix, Yüzüklerin Efendisi).
+- [x] Monomit ve Tasavvuf paralelliklerinin eklenmesi.
+- [ ] İslami klasiklerde Monomit analizi (Mantıku't-Tayr, Hüsn ü Aşk).
 - [ ] Daha fazla modern vaka analizi (Harry Potter, Interstellar, God of War).
 - [ ] "Kahramanın Karşı-Yolculuğu" (The Anti-Hero's Journey) bölümü.
 - [ ] İnteraktif bir "Hikaye Taslak Oluşturucu" (Story Template) eklenmesi.
