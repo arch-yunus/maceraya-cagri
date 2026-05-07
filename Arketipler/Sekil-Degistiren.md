@@ -1,13 +1,21 @@
-﻿# Şekil Değiştiren (Shapeshifter)
+# 🎭 Arketip: Şekil Değiştiren (The Shapeshifter)
 
-> "Sadakati belirsiz, hikayeye şüphe ve gerilim katan figür."
+> "Sadakati belirsiz, maskesi sürekli değişen ve kahramanı şüpheye düşürerek onu geliştiren gizemli figür."
 
-## Rolü
-Hikayedeki temel işlevi...
+## 🏛️ Tanım
+Şekil Değiştiren, kahramanın (ve okuyucunun) ona güvenip güvenemeyeceğinden asla emin olamadığı karakterdir. Dost gibi görünüp düşman çıkabilir veya tam tersi. Asıl amacı hikayeye gerilim ve şüphe katmaktır.
 
-## Psikolojik Karşılığı
-Jung psikolojisindeki yeri...
+## 🧠 Psikolojik Boyut
+İnsan doğasındaki **değişkenliği** ve kahramanın karşı cinsle (veya kendi içindeki karşıt enerjiyle) olan karmaşık ilişkisini temsil eder. Jung'cu anlamda Anima/Animus'un yanıltıcı yüzüdür.
 
-## Örnekler
-- Örnek 1
-- Örnek 2
+## ✍️ Özellikler ve Yazım İpuçları
+- **Belirsizlik:** Motivasyonları her zaman gizli kalmalıdır.
+- **Dönüşüm:** Hikayenin bir noktasında büyük bir taraf değiştirme (betrayal veya redemption) yaşamalıdır.
+
+## 🌑 Gölge Tarafı
+**İhanetçi.** Sadece kendi çıkarları için herkesi kandıran, hiçbir etik değeri olmayan yıkıcı figür.
+
+## 🎬 Örnekler
+- **Severus Snape:** Seri boyunca sadakati sürekli sorgulanan karakter.
+- **Catwoman:** Batman'in bazen müttefiki bazen düşmanı.
+- **Loki:** İskandinav mitolojisinin ve Marvel evreninin kadim şekil değiştireni.

@@ -1,13 +1,21 @@
-﻿# Haberci (The Herald)
+# 🎺 Arketip: Haberci (The Herald)
 
-> "Maceraya çağrıyı getiren, statükoyu bozan güç veya karakter."
+> "Maceranın kıvılcımını çakan, değişimin haberini getiren ve statükoyu sarsan ses."
 
-## Rolü
-Hikayedeki temel işlevi...
+## 🏛️ Tanım
+Haberci, hikayeyi başlatan "Maceraya Çağrı"yı getiren figürdür. Bu bir kişi olabileceği gibi, bir olay (fırtına, savaş ilanı) veya bir nesne (bir mektup) de olabilir. Habercinin asıl görevi, kahramanın artık yerinde duramayacağını ona bildirmektir.
 
-## Psikolojik Karşılığı
-Jung psikolojisindeki yeri...
+## 🧠 Psikolojik İşlev
+**Değişim ihtiyacı**nı temsil eder. Kahramanın hayatındaki dengenin bozulduğunu ve yeni bir denge kurulması gerektiğini bildiren bilinçaltı uyarısıdır.
 
-## Örnekler
-- Örnek 1
-- Örnek 2
+## ✍️ Özellikler ve Yazım İpuçları
+- **Etki:** Haberci ne kadar beklenmedik olursa, çağrı o kadar etkileyici olur.
+- **Geçicilik:** Haberci genellikle çağrıyı getirdikten sonra hikayeden çekilir veya başka bir role bürünür.
+
+## 🌑 Gölge Tarafı
+**Kötü Haber Getiren.** Sadece felaket tellallığı yapan veya kahramanı yanlış, tehlikeli bir yola sürükleyen haberci.
+
+## 🎬 Örnekler
+- **R2-D2:** Leia'nın mesajını Luke'a getiren robot.
+- **Hagrid:** Harry'ye büyücü olduğunu söyleyen dev.
+- **Beyaz Tavşan:** Alice'i (veya Neo'yu) deliğe/gerçeğe çeken figür.
