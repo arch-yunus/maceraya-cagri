@@ -12,12 +12,15 @@
 
 1. [Projenin Amacı](#-projenin-amacı)
 2. [Monomit Nedir?](#-monomit-nedir)
-3. [Klasör Yapısı ve Yolculuğun Aşamaları](#-klasör-yapısı-ve-yolculuğun-aşamaları)
-4. [Temel Arketipler](#-temel-arketipler)
-5. [Bu Repo Kimler İçin?](#-bu-repo-kimler-için)
-6. [Nasıl Kullanılır?](#-nasıl-kullanılır)
-7. [Katkıda Bulunma](#-katkıda-bulunma)
-8. [Lisans](#-lisans)
+3. [Klasör Yapısı ve Yolculuğun Aşamaları](#-klasör-yapısı-ve-yolculuğun-aşamalari)
+4. [Monomit Döngüsü (Görselleştirme)](#-monomit-döngüsü-görselleştirme)
+5. [Temel Arketipler](#-temel-arketipler)
+6. [Temel Kaynakça ve Okuma Listesi](#-temel-kaynakça-ve-okuma-listesi)
+7. [Bu Repo Kimler İçin?](#-bu-repo-kimler-için)
+8. [Sıkça Sorulan Sorular (SSS)](#-sıkça-sorulan-sorular-sss)
+9. [Nasıl Kullanılır?](#-nasıl-kullanılır)
+10. [Katkıda Bulunma](#-katkıda-bulunma)
+11. [Lisans](#-lisans)
 
 ---
 
@@ -94,14 +97,69 @@ Yolculuk sadece mekanlardan ve olaylardan ibaret değildir; aynı zamanda psikol
 
 ---
 
-## 🤝 Katkıda Bulunma
+## 🔄 Monomit Döngüsü (Görselleştirme)
 
-Bu repo yaşayan bir kütüphane olacak şekilde tasarlanmıştır. Katkıda bulunmak çok kolaydır:
-1. Repoyu fork'layın.
-2. Sevdiğiniz bir film, kitap veya oyunun "Monomit Analizini" `Vaka-Calismalari` dizinine ekleyin.
-3. Mevcut çevirileri iyileştirin veya kendi notlarınızı (Pull Request) gönderin.
+Kahramanın yolculuğu doğrusal değil, döngüsel bir süreçtir. Aşağıdaki şema, bu yolculuğun ana duraklarını özetler:
 
-Ayrıntılı bilgi için [CONTRIBUTING.md](CONTRIBUTING.md) dosyasına göz atın.
+```mermaid
+graph TD
+    subgraph "01 - AYRILIŞ (Departure)"
+        A[Sıradan Dünya] --> B[Maceraya Çağrı]
+        B --> C[Çağrının Reddedilmesi]
+        C --> D[Doğaüstü Yardım]
+        D --> E[İlk Eşiğin Aşılması]
+        E --> F[Balinanın Karnı]
+    end
+    
+    subgraph "02 - ERGİNLENME (Initiation)"
+        F --> G[Sınavlar Yolu]
+        G --> H[Tanrıça ile Karşılaşma]
+        H --> I[Baştan Çıkarıcı Kadın]
+        I --> J[Baba ile Uzlaşma]
+        J --> K[Tanrısallaştırma]
+        K --> L[Nihai Ödül]
+    end
+    
+    subgraph "03 - DÖNÜŞ (Return)"
+        L --> M[Dönüşün Reddedilmesi]
+        M --> N[Büyülü Kaçış]
+        N --> O[Dışarıdan Gelen Kurtarıcı]
+        O --> P[Dönüş Eşiğinin Aşılması]
+        P --> Q[İki Dünyanın Ustası]
+        Q --> R[Yaşam Özgürlüğü]
+        R --> A
+    end
+
+    style L fill:#f9f,stroke:#333,stroke-width:4px
+    style A fill:#bbf,stroke:#333,stroke-width:2px
+    style R fill:#bfb,stroke:#333,stroke-width:2px
+```
+
+---
+
+## 📚 Temel Kaynakça ve Okuma Listesi
+
+Monomit ve hikaye yapısı üzerine daha derinlemesine bilgi edinmek için şu eserleri inceleyebilirsiniz:
+
+1.  **Joseph Campbell** - *Kahramanın Sonsuz Yolculuğu (The Hero with a Thousand Faces)*: Teorisinin temeli.
+2.  **Christopher Vogler** - *Yazarın Yolculuğu (The Writer's Journey)*: Campbell'ın teorisini modern senaryo yazımı için modernize eden rehber.
+3.  **Carl G. Jung** - *Arketipler ve Kolektif Bilinçaltı*: Arketiplerin psikolojik kökenleri.
+4.  **Vladimir Propp** - *Masalın Morfolojisi*: Hikaye yapısı üzerine yapısalcı bir diğer temel eser.
+
+---
+
+## ❓ Sıkça Sorulan Sorular (SSS)
+
+**S: Her hikaye bu 17 aşamanın hepsini içermek zorunda mı?**  
+C: Hayır. Campbell'ın kendisi de bu aşamaların her hikayede farklı kombinasyonlarda bulunabileceğini belirtir. Bazı hikayeler bazı aşamaları atlar, bazılarını ise birleştirir. Önemli olan temel ruhun korunmasıdır.
+
+**S: Monomit sadece "erkek" kahramanlar için mi geçerlidir?**  
+C: Teorinin dili tarihsel nedenlerle eril görünse de, Monomit evrensel bir insan gelişim sürecini anlatır. Günümüzde "Kahramanın Yolculuğu" cinsiyetten bağımsız olarak tüm karakter gelişim süreçlerine başarıyla uygulanmaktadır.
+
+**S: Bu yapıyı kullanmak hikayeyi klişe yapar mı?**  
+C: Hayır. İskelet aynı olsa da, o iskeletin üzerine giydirdiğiniz et (karakterler, dünya tasarımı, diyaloglar) tamamen size özgüdür. Monomit bir kısıtlama değil, bir pusuladır.
+
+---
 
 ## 🗺️ Proje Yol Haritası
 
@@ -114,6 +172,17 @@ Ayrıntılı bilgi için [CONTRIBUTING.md](CONTRIBUTING.md) dosyasına göz atı
 
 ---
 
+## 🤝 Katkıda Bulunma
+
+Bu repo yaşayan bir kütüphane olacak şekilde tasarlanmıştır. Katkıda bulunmak çok kolaydır:
+1. Repoyu fork'layın.
+2. Sevdiğiniz bir film, kitap veya oyunun "Monomit Analizini" `Vaka-Calismalari` dizinine ekleyin.
+3. Mevcut çevirileri iyileştirin veya kendi notlarınızı (Pull Request) gönderin.
+
+Ayrıntılı bilgi için [CONTRIBUTING.md](CONTRIBUTING.md) dosyasına göz atın.
+
+---
+
 ## 📜 Lisans
 
-Bu proje **MIT Lisansı** ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz. İçeriklerin kişisel, akademik veya ticari hikaye projelerinizde (atıf yapmak koşuluyla) kullanılması serbesttir.
+Bu proje **MIT Lisansı** ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz. İçeriklerin kişisel, akademik veya ticari hikaye projelerinizde (atıf yapmak koşuluyla) kullanılması serbesttir.
